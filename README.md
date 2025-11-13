@@ -5,4 +5,4 @@
 #### Exemple avec netcat :
 #### nc vers @ip et le port ou tourne l'application 
 ---
-####  nc localhost 5900 
+####  nc localhost 5900 ,
