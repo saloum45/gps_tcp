@@ -3,6 +3,7 @@
 ### pour tester veuillez utiliser un client TCP comme netcat ou telnet
 ---
 #### Exemple avec netcat :
-#### nc vers @ip et le port ou tourne l'application 
+#### nc vers @ip et le port ou tourne le server 
 ---
-####  nc localhost 5900 ,
+####  nc localhost 5900 
+#### taper un text et vérifier la console ou tourne le server
